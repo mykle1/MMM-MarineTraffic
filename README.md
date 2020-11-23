@@ -15,7 +15,7 @@ Pictures to be taken.
 
 ## Installation
 
-* `git clone https://github.com/mykle1/MMM-MarineWeather` into the `~/MagicMirror/modules` directory.
+* `git clone https://github.com/mykle1/MMM-MarineTraffic` into the `~/MagicMirror/modules` directory.
 
 ## Config.js entry and options
 ```
