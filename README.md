@@ -30,6 +30,15 @@ Pictures to be taken.
       updateInterval: 5 * 60 * 1000,
 
       // config entry is not complete. Options to follow
+      latitude:40.574794,
+      longitude:-74.112454,
+      zoom:12,   // 1-17
+      maptype:1,  // 0/1  
+      vesseltotrack:0,   //  vessel id
+      fleet:'',		 //  url of fleet definiton	
+      showmenu:false,    // show map menu
+      shownames:false,   // show names of vessels
+      border:0,          // map border
     }
 },
 ```
